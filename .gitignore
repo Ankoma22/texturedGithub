@@ -13,7 +13,7 @@ Carthage/Build
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
-
+.DC_Store
 ## Build generated
 build/
 DerivedData/
